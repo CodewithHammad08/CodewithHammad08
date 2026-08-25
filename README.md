@@ -50,9 +50,7 @@ Open to collaboration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodewithHammad08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithHammad08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodewithHammad08&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -60,25 +58,15 @@ Open to collaboration.
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=CodewithHammad08&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=CodewithHammad08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
 
 </div>
 
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CodewithHammad08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-
-# 📈 Contribution Graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodewithHammad08&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithHammad08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
@@ -87,7 +75,7 @@ Open to collaboration.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=CodewithHammad08&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=CodewithHammad08&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -96,6 +84,6 @@ Open to collaboration.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
 </div>
