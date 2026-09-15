@@ -1,7 +1,7 @@
 
 <p align="center">
 
-<img src="Banner.png" width="800" height="300"/>
+<img src="Banner.png" width="800" height="450"/>
 
 </p>
 
