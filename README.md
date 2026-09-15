@@ -1,18 +1,120 @@
-# 💫 About Me:
-B.Tech AI & ML student.<br>
-Building real-world AI projects.<br>
-Exploring Full-Stack Development.<br>
-Focused on clean code & problem-solving.<br>
-Open to collaboration.
 
+<p align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hammaddalvi08)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/codewithhammad_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-dalvi08)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@DevWithHammad)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammaddalvi08@gmail.com)
+<img src="Banner.png" width="700"/>
 
+</p>
+
+<br>
+
+<h1 align="center">Hi 👋, I'm Hammad Dalvi</h1>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Real-World+AI+Projects;Always+Learning+%26+Building" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/CodewithHammad08">
+
+<img src="https://komarev.com/ghpvc/?username=CodewithHammad08&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+## 💫 About Me
+
+🎓 B.Tech Artificial Intelligence & Machine Learning Student
+
+I'm passionate about building real-world applications using **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+
+I enjoy turning ideas into practical solutions, exploring new technologies, and continuously improving my problem-solving skills.
+
+My interests include:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Full-Stack Web Development
+- 🧠 Data Science & Intelligent Applications
+- 🚀 Building and deploying real-world projects
+- 🤝 Open Source & Collaboration
+
+Currently exploring **AI-powered applications, Machine Learning, and modern web technologies** through hands-on projects.
+
+📬 Open to collaboration, learning opportunities, and exciting tech projects.
+
+---
+
+## 🧠 Currently Learning & Exploring
+
+- Machine Learning & AI Model Development
+- Full-Stack Web Development
+- Backend Development with Node.js
+- Building AI-powered applications
+- Data Analysis & Visualization
+- Cloud Deployment & Application Development
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my **skills, projects, experience, and work in AI/ML and Full-Stack Development**.
+
+- 💻 Personal portfolio website
+- 🎨 Modern and professional UI
+- 📱 Responsive design
+- 🚀 Built to showcase my projects and technical skills
+
+🔗 **[View Portfolio Repository](https://github.com/CodewithHammad08/Personal_Portfolio)**
+
+---
+
+### ❤️ Heart Disease Prediction
+
+A Machine Learning project focused on predicting the likelihood of heart disease using patient health-related data.
+
+- 🧠 Machine Learning model development
+- 📊 Data preprocessing and analysis
+- 🔍 Predictive analytics
+- 🩺 AI-powered health risk prediction
+
+🔗 **[Explore My Repositories](https://github.com/CodewithHammad08?tab=repositories)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hammad-dalvi08">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/codewithhammad_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/hammaddalvi08">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@DevWithHammad">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:hammaddalvi08@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 # 💻 Tech Stack:
 
@@ -20,7 +122,7 @@ Open to collaboration.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -45,6 +147,7 @@ Open to collaboration.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 ## 📊 GitHub Analytics
 
@@ -66,44 +169,28 @@ Open to collaboration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithHammad08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CodewithHammad08&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithHammad08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 </div>
 
 ---
 
-## 👀 Profile Views
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=CodewithHammad08&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/CodewithHammad08/CodewithHammad08/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something amazing together. 🚀**
-
-</div>
-
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=CodewithHammad08&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</div>
-
 
 ---
 
 <div align="center">
 
 ⭐ Thanks for visiting my profile!
+
+**Let's build something amazing together. 🚀**
 
 </div>
