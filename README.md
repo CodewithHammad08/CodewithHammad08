@@ -46,7 +46,7 @@ Open to collaboration.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -67,6 +67,26 @@ Open to collaboration.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithHammad08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=CodewithHammad08&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something amazing together. 🚀**
 
 </div>
 
