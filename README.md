@@ -1,7 +1,7 @@
 
 <p align="center">
 
-<img src="Banner.png" width="700"/>
+<img src="Banner.png" width="800" height="500"/>
 
 </p>
 
@@ -52,8 +52,6 @@ Currently exploring **AI-powered applications, Machine Learning, and modern web 
 ## 🧠 Currently Learning & Exploring
 
 - Machine Learning & AI Model Development
-- Full-Stack Web Development
-- Backend Development with Node.js
 - Building AI-powered applications
 - Data Analysis & Visualization
 - Cloud Deployment & Application Development
@@ -71,7 +69,7 @@ My personal developer portfolio showcasing my **skills, projects, experience, an
 - 📱 Responsive design
 - 🚀 Built to showcase my projects and technical skills
 
-🔗 **[View Portfolio Repository](https://github.com/CodewithHammad08/Personal_Portfolio)**
+🔗 **[View My Portfolio]([https://github.com/CodewithHammad08/Personal_Portfolio]**
 
 ---
 
