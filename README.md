@@ -69,7 +69,7 @@ My personal developer portfolio showcasing my **skills, projects, experience, an
 - 📱 Responsive design
 - 🚀 Built to showcase my projects and technical skills
 
-🔗 **[View My Portfolio]([https://github.com/CodewithHammad08/Personal_Portfolio]**
+🔗 **[View My Portfolio](https://github.com/CodewithHammad08/Personal_Portfolio)**
 
 ---
 
