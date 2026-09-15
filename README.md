@@ -153,21 +153,17 @@ A Machine Learning project focused on predicting the likelihood of heart disease
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodewithHammad08&show_icons=true&theme=tokyonight&hide_border=true" alt="Hammad's GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithHammad08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodewithHammad08&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 GitHub Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CodewithHammad08/CodewithHammad08/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>](https://raw.githubusercontent.com/CodewithHammad08/CodewithHammad08/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodewithHammad08&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 
 </div>
 
